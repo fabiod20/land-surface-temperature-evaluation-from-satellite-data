@@ -12,4 +12,4 @@ The solution shown in the Notebook, implemented by means of *scikit-learn*, is m
 
 
 
-<a name="myfootnote1">1</a>: data are not from the European Space Agency (ESA) Copernicus Sentinel-2 missions, as is erroneously reported on Kaggle.
+<a name="myfootnote1">1</a>: data are not from the European Space Agency (ESA) Copernicus Sentinel-2 missions, as erroneously reported on Kaggle.
