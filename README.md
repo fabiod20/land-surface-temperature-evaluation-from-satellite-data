@@ -10,4 +10,6 @@ The solution shown in the Notebook, implemented by means of *scikit-learn*, is m
 - **Modeling**: several models have been compared for our purpose, such as *decision tree*, *linear* and *polinomial regression*, *ridge regression*, *support vector machine* and *multi layer perceptron*, but the best one turned out to be *k-nearest neighbour*.
 
 
+
+
 <a name="myfootnote1">1</a>: data are not from the European Space Agency (ESA) Copernicus Sentinel-2 missions, as is erroneously reported on Kaggle.
