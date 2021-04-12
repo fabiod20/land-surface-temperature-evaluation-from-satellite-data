@@ -5,9 +5,9 @@ You can find more about the competition [here](https://www.kaggle.com/c/unina-da
 The aim of the contest is to determine the Land Surface Temperature (LST) from satellite data, using data coming from the National Aeronautics and Space Administration (NASA) Landsat-8 missions <sup>[1](#footnote1)</sup>.
 
 The solution shown in the Notebook, implemented by means of *scikit-learn*, is made up of tree main stages:
-- **Feature engineering**: several spectral indexes shown in the literature have been used, such has *NDVI* and *PV*.
-- **Feature selection**: mainly based on features' correlation, although projection techniques such as *principal component analysis* have been used.
-- **Modeling**: several models have been compared for our purpose, such as *decision tree*, *linear* and *polinomial regression*, *ridge regression*, *support vector machine* and *multi layer perceptron*, but the best one turned out to be *k-nearest neighbour*.
+- **Feature engineering**: computed different spectral indexes shown in the literature, such as *NDVI* and *PV*.
+- **Feature selection**: correlation-based and projection techniques, such as *principal component analysis*.
+- **Modeling**: compared several models, such as *decision tree*, *linear* and *polinomial regression*, *ridge regression*, *support vector machine* and *multi layer perceptron*, but the best one turned out to be *k-nearest neighbour*.
 
 
 
